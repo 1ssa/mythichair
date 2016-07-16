@@ -1,0 +1,48 @@
+.numbers {
+    width: 150px;
+    text-align: center; 
+    font-family: monospace; 
+    font-size: 50px; 
+    font-weight: thin;   /* options are normal, bold, bolder, lighter */
+    font-style: normal;  /* options are normal or italic */
+    color: #FFFFFF;      /* change color using the hexadecimal color codes for HTML */
+}
+.title {    /* the styles below will affect the title under the numbers, i.e., "Days", "Hours", etc. */
+    width: 150px;
+    text-align: center; 
+    font-family: Arial; 
+    font-size: 15px; 
+    font-weight: bold;   /* options are normal, bold, bolder, lighter */
+    color: #D3D3D3;      /* change color using the hexadecimal color codes for HTML */
+}
+#table {
+    width: 400px;
+    height: 68px;
+    border-style: none;
+    background-color: transparent;
+    font-family: monospace; 
+    font-size: 40px; 
+    font-weight: lighter;   /* options are normal, bold, bolder, lighter */
+    font-style: normal;  /* options are normal or italic */
+    color: #FFFFFF;      /* change color using the hexadecimal color codes for HTML */
+}
+.title {    /* the styles below will affect the title under the numbers, i.e., "Days", "Hours", etc. */
+    width: 150px;
+    text-align: center; 
+    font-family: Arial; 
+    font-size: 20px; 
+    font-weight: bold;   /* options are normal, bold, bolder, lighter */
+    color: #D3D3D3;      /* change color using the hexadecimal color codes for HTML */
+}
+#table {
+    width: 400px;
+    height: 68px;
+    border-style: none;
+    background-color: transparent;
+}
+#mydiv {
+    background: #80739c;
+    height: 100px;
+    background-color: rgba(255, 0, 0, 0.5);
+    width: 100%;
+}
